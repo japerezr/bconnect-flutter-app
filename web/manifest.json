@@ -1,11 +1,11 @@
 {
-    "name": "BConnect - Convivencias",
-    "short_name": "BConnect Convivencias",
+    "name": "BConnect Flutter App",
+    "short_name": "BConnect Flutter App",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
     "theme_color": "#FFFFFF",
-    "description": "BConnect - Convivencias",
+    "description": "BConnect Flutter App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
