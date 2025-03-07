@@ -1,8 +1,8 @@
-import 'package:bconnect_darwin_app/app.dart';
-import 'package:bconnect_darwin_app/helpers/preferences_helper.dart';
-import 'package:bconnect_darwin_app/views/auth_view.dart';
-import 'package:bconnect_darwin_app/views/busqueda/busquedas_view.dart';
-import 'package:bconnect_darwin_app/views/login_view.dart';
+import 'package:bconnect_flutter_app/app.dart';
+import 'package:bconnect_flutter_app/helpers/preferences_helper.dart';
+import 'package:bconnect_flutter_app/views/auth_view.dart';
+import 'package:bconnect_flutter_app/views/busqueda/busquedas_view.dart';
+import 'package:bconnect_flutter_app/views/login_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 

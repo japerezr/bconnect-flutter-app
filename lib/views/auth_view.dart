@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:bconnect_darwin_app/env.dart';
+import 'package:bconnect_flutter_app/env.dart';
 import 'package:flutter/material.dart';
 import '../app_route.dart';
 import '../helpers/preferences_helper.dart';

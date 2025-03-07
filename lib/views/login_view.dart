@@ -2,8 +2,8 @@
 
 import 'dart:html';
 
-import 'package:bconnect_darwin_app/app_route.dart';
-import 'package:bconnect_darwin_app/env.dart';
+import 'package:bconnect_flutter_app/app_route.dart';
+import 'package:bconnect_flutter_app/env.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
@@ -21,7 +21,7 @@ class _LoginPageState extends State<LoginPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('BConnect Darwin - Busqueda'),
+        title: const Text('BConnect Flutter App'),
         elevation: 2,
       ),
       backgroundColor: Colors.grey[200],

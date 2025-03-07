@@ -1,4 +1,4 @@
-package com.example.bconnect_darwin_app
+package com.example.bconnect_flutter_app
 
 import io.flutter.embedding.android.FlutterActivity
 

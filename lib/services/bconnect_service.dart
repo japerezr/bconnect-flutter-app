@@ -1,6 +1,6 @@
 import 'dart:convert';
-import 'package:bconnect_darwin_app/env.dart';
-import 'package:bconnect_darwin_app/models/models.dart';
+import 'package:bconnect_flutter_app/env.dart';
+import 'package:bconnect_flutter_app/models/models.dart';
 import 'package:http/http.dart' as http;
 
 

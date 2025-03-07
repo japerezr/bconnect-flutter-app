@@ -1,6 +1,6 @@
-import 'package:bconnect_darwin_app/app_route.dart';
-import 'package:bconnect_darwin_app/app_theme.dart';
-import 'package:bconnect_darwin_app/views/login_view.dart';
+import 'package:bconnect_flutter_app/app_route.dart';
+import 'package:bconnect_flutter_app/app_theme.dart';
+import 'package:bconnect_flutter_app/views/login_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 

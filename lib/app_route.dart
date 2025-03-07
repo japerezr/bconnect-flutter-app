@@ -1,7 +1,7 @@
-import 'package:bconnect_darwin_app/models/bc_colaborador.dart';
-import 'package:bconnect_darwin_app/models/bc_user.dart';
-import 'package:bconnect_darwin_app/views/account/account_view.dart';
-import 'package:bconnect_darwin_app/views/busqueda/busquedas_view.dart';
+import 'package:bconnect_flutter_app/models/bc_colaborador.dart';
+import 'package:bconnect_flutter_app/models/bc_user.dart';
+import 'package:bconnect_flutter_app/views/account/account_view.dart';
+import 'package:bconnect_flutter_app/views/busqueda/busquedas_view.dart';
 import 'package:flutter/material.dart';
 
 import 'menu.dart';

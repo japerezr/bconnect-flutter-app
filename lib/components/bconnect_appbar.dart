@@ -16,7 +16,7 @@ class BconnectAppBar extends StatelessWidget implements PreferredSizeWidget {
   @override
   Widget build(BuildContext context) {
     return AppBar(
-      title: const Text('BConnect Darwin - Busqueda'),
+      title: const Text('BConnect Flutter App'),
       actions: [
         IconButton(
           padding: const EdgeInsets.all(0),

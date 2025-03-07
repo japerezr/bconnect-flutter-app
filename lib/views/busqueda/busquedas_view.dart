@@ -1,9 +1,9 @@
 // ignore_for_file: file_names
 import 'dart:convert';
-import 'package:bconnect_darwin_app/app_route.dart';
-import 'package:bconnect_darwin_app/app_theme.dart';
-import 'package:bconnect_darwin_app/env.dart';
-import 'package:bconnect_darwin_app/views/account/account_view.dart';
+import 'package:bconnect_flutter_app/app_route.dart';
+import 'package:bconnect_flutter_app/app_theme.dart';
+import 'package:bconnect_flutter_app/env.dart';
+import 'package:bconnect_flutter_app/views/account/account_view.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:share_plus/share_plus.dart';
@@ -13,7 +13,7 @@ import '../../models/models.dart';
 import '../../components/components.dart';
 import '../../helpers/helpers.dart';
 import '../../services/services.dart';
-import 'package:bconnect_darwin_app/components/navigation_bar_component.dart';
+import 'package:bconnect_flutter_app/components/navigation_bar_component.dart';
 import 'package:intl/intl.dart';
 
 class BusquedasPage extends StatefulWidget {
